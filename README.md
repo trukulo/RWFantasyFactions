@@ -1,2 +1,79 @@
-"# RWFantasyFactions" 
-"# RWFantasyFactions" 
+A Rimworld Mod to add new factions to the game.
+
+Fantastic races with Wood Elves, Dwarves, Dark Elves, Moon Elves, Goblins, Nekos and Draks.
+
+All of it quite clean and should be compatible with 99% of mods out there. It uses custom Xenotypes for the races.
+
+The factions are:
+
+Wood  Elves
+-----------
+
+In the distant future where civilizations have extended their reach into the cosmos, the Wood Elves emerges as a distinct faction within the Rimworld. This tribe embodies a deep connection to nature, harmony, and a staunch opposition to technological progress.
+
+The Wood Elves thrives in lush and untamed ecosystems, shunning advanced technology in favor of a life intertwined with the rhythms of the natural world. They live in harmony with the flora and fauna, forming close bonds with the creatures of the wild.
+
+Elders pass down ancient knowledge, stories, and rituals, ensuring the continuity of their cultural heritage.
+
+This tribe's primary focus is the preservation of the natural world. Their druids and shamans wield mystical powers, channeling the energies of the earth and the spirits of the wild to maintain the delicate balance of their ecosystems. They engage in rituals to appease ancient forest deities and protect their homes from external threats.
+
+While the Wood Elves thrives as a close-knit community, they view the technological advancements of other factions with suspicion and disdain. They see such progress as a direct threat to the sanctity of the natural order. This stance can lead to conflicts with more industrialized societies, as the tribe resolutely defends their territories and the well-being of their environment.
+
+The Dwarven Union
+-----------------
+
+The Dwarven Union has established a sprawling subterranean network of cities and fortresses, delving deep into the heart of asteroids and planets to extract precious resources. Their mastery of mining technology and engineering enables them to create vast underground structures, filled with intricate tunnels, forges, and workshops that hum with the ceaseless activity of industry.
+
+Technological innovation within the Dwarven Union is primarily focused on enhancing their mining capabilities and crafting prowess. They have developed advanced drilling machinery, excavation drones, and resource-processing facilities, allowing them to extract valuable minerals with unparalleled efficiency.
+
+Central to the culture of the Dwarven Union is their art of craftsmanship. Their skilled artisans forge intricate weapons, armor, and mechanical marvels, infusing each creation with a blend of function and beauty. Dwarven metallurgy is renowned across the Rimworld, and their artifacts are sought after by collectors and factions alike.
+
+One distinctive aspect of the Dwarven Union's culture is their fondness for hearty spirits. They are known for their exceptional brewing skills, producing a wide variety of potent ales, meads, and spirits. Drinking is not only a leisure activity but also a social event that fosters camaraderie and celebrates their successes and challenges. Dwarven taverns are renowned as hubs of merriment and storytelling.
+
+The Luminari
+------------
+
+The Moon Elves of the Luminar Confederacy, the Luminari, have achieved unparalleled technological advancement, harnessing the power of cosmic energy and ancient knowledge to forge a society of brilliance and innovation. Their cities are marvels of engineering, equipped with advanced systems, energy shields, and cutting-edge weaponry.
+
+While their technology is formidable, the Luminar Confederacy values wisdom and enlightenment just as highly. Their scholars and scientists delve into the mysteries of the universe, striving to uncover the secrets of cosmic energy and harness its potential for the betterment of their civilization.
+
+The Moon Elves' connection to the stars is not just metaphorical; it is woven into their very essence. Their longevity, bestowed by their ancestral ties, grants them lifespans that span centuries. This longevity has allowed the Luminar Confederacy to accumulate knowledge and insights that few other factions can rival, giving them a unique perspective on the unfolding events of the cosmos.
+
+The Dark Elves
+--------------
+
+The Nocturne Syndicate's strongholds are nestled deep within the heart of imposing mountains, concealed from prying eyes and the harsh light of the stars. These underground complexes are a labyrinthine network of factories, laboratories, and armories where the clang of machinery mingles with the echoes of whispered secrets. Their architecture is a blend of twisted aesthetics and cutting-edge industrial design.
+
+Technological prowess is at the core of the Nocturne Syndicate's society. They have harnessed industrial-level technology to forge advanced weaponry and cybernetic enhancements. 
+
+The Nocturne Syndicate's society is defined by aggression and ruthless efficiency. They operate as a tightly-knit syndicate, where the strongest and most cunning rise to power. Their leaders, known as Nightlords, command their forces with calculated brutality, using a combination of fear and reward to maintain their iron grip over the faction.
+
+Pessimism and a belief in the inherent darkness of the cosmos are pervasive within the Nocturne Syndicate. They view the universe as a harsh and unforgiving place, where power and dominance are the only constants. Their culture celebrates ruthlessness and ambition, rewarding those who prove their mettle in combat and cunning.
+
+Goblins
+-------
+
+The Verdigris Clans live in scattered tribal communities across the Rimworld, forming close-knit groups that are both resourceful and raucous. Their settlements are often built in the heart of lush jungles and overgrown landscapes, where their unique toxicity resistance allows them to thrive in environments that might deter other factions.
+
+While the Verdigris Clans possess a natural affinity for survival, their advancement in technology is slow. Their ingenuity lies in their adaptability and the use of rudimentary tools and weapons crafted from natural materials. Their homes, constructed from woven vegetation and sustainable resources, showcase their resourcefulness in creating dwellings that blend harmoniously with the environment.
+
+The Verdigris Clans' culture is marked by their high libido and celebratory spirit. Festivals and ceremonies are a central part of their society, often accompanied by vibrant music, dance, and revelry. Their energetic nature extends to all aspects of life, and their passionate approach to relationships and interactions can lead to both joyful alliances and heated disputes.
+
+Nekos
+-----
+
+The Euphony focus on aesthetics is pronounced, the Euphony Enclave has also achieved remarkable technological advancement. Their industrial prowess is evident in their advanced factories and efficient production lines. Their technology is not merely functional, but also designed with an eye for elegance and sophistication, mirroring their commitment to both form and function.
+
+The Euphony Enclave's society is built upon a foundation of graceful interactions and effective communication. They excel in social interactions, possessing a natural charisma and empathy that allow them to navigate complex diplomatic landscapes with finesse. Their leaders, known as Melodarchs, lead with a combination of wisdom, charm, and an understanding of the power of unity.
+
+An aspect of the Euphony Enclave's culture is their tendency toward a slower pace of life. They value relaxation and contemplation, often incorporating periods of rest and meditation into their daily routines. This leisurely approach doesn't diminish their industrial efficiency; instead, it serves as a reminder of the importance of balance and self-care.
+
+Draks
+-----
+
+The Draconian Clans' settlements are scattered across diverse landscapes, from rugged mountains to dense forests. Their architecture is a fusion of organic and primitive elements, reflecting their connection to the natural world and their ancestral roots. Tribal fires burn brightly, casting a warm glow on the ceremonial grounds where their leaders, known as Firelords, make decisions for the clan.
+
+While their technology is tribal in nature, it's intertwined with the mysticism of their dragon heritage. Draconian forges and crafting chambers blend traditional methods with enchantments, creating weapons, armor, and tools that channel elemental power. They also possess rudimentary fire-powered devices, harnessing the energy of flames to power simple machinery.
+
+The Draconian Clans' society is defined by their primal instincts and fierce unity. Their fiery breath and echoing roars are not just symbolic; they serve as communication and intimidation tools that underscore their dominance. Each clan is bound by blood and loyalty, with the clan members working together to protect their territory, uphold their traditions, and guard their ancient secrets.
+
