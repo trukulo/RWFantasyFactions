@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <XenotypeDef>
+    <defName>WoodElf</defName>
+    <label>Wood Elf</label>
+    <description>Wood Elves, also known as Green Elves or Wild Elves, are a race of humanoid creatures that live in forests. They have pointed ears, sharp features, and green skin tone due to their exposure to the forest's foliage. Their hair is usually long and braided, while their eyes can be either green or blue depending on their clan. They are skilled archers who use bows made from yew trees and arrows tipped with poison. They are also proficient at magic, particularly enchanting objects with nature-based spells. In terms of society, they live in small tribes led by a chieftain and follow a code of honor called "The Green Code" which dictates how they should behave towards each other and non-elves alike. Overall, they are seen as mysterious and reclusive creatures who value nature above all else.</description>
+    <descriptionShort>A wood elf.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/woodelf</iconPath>
+    <inheritable>true</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonElfMale</nameMaker>
+	<nameMakerFemale>NamerPersonElfFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+      <li>MoveSpeed_Quick</li>
+      <li>MeleeDamage_Weak</li>
+      <li>Delicate</li>
+      <li>Ears_Pointed</li>
+      <li>Body_Standard</li>
+      <li>Body_Thin</li>
+      <li>Skin_Green</li>
+      <li>ElongatedFingers</li>
+      <li>AptitudeStrong_Shooting</li>
+      <li>AptitudeTerrible_Melee</li>
+      <li>AptitudeStrong_Plants</li>
+    </genes>
+  </XenotypeDef>
+  
+    <XenotypeDef>
+    <defName>MoonElf</defName>
+    <label>Moon Elf</label>
+    <description>Luminari, Moon Elves, are a race of humanoids that inhabit the moons of various planets. They have pointed ears, and sharp features. Their eyes glow with an otherworldly light in the darkness of space. Moon Elves are known for their advanced technology and mastery of magic. They live in cities built on the surfaces of their moons, where they study the stars and planets around them.</description>
+    <descriptionShort>A Luminari.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/moonelf</iconPath>
+    <inheritable>true</inheritable>
+    <combatPowerFactor>1.3</combatPowerFactor>
+	<nameMaker>NamerPersonMoonElfMale</nameMaker>
+	<nameMakerFemale>NamerPersonMoonElfFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+      <li>MoveSpeed_Quick</li>
+      <li>Ears_Pointed</li>
+      <li>Body_Standard</li>
+      <li>Body_Thin</li>
+	  <li>Hair_LongOnly</li>
+	  <li>Beard_NoBeardOnly</li>
+      <li>ElongatedFingers</li>
+	  <li>Eyes_Gray</li>
+	  <li>Ageless</li>
+	  <li>Beauty_Pretty</li>
+    </genes>
+  </XenotypeDef>
+  
+    <XenotypeDef>
+    <defName>DarkElf</defName>
+    <label>Dark Elf</label>
+    <description>Dark Elves live underground. They are usually tall, slender humanoids with dark skin. Their society is based on chaos and destruction, and they worship the Chaos Gods. They are known for their cunning and manipulative skills.</description>
+    <descriptionShort>A Dark elf.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/darkelf</iconPath>
+    <inheritable>true</inheritable>
+    <combatPowerFactor>1.1</combatPowerFactor>
+	<nameMaker>NamerPersonDarkElfMale</nameMaker>
+	<nameMakerFemale>NamerPersonDarkElfFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+      <li>MoveSpeed_Quick</li>
+      <li>Ears_Pointed</li>
+      <li>Body_Standard</li>
+      <li>Body_Thin</li>
+      <li>Skin_SlateGray</li>
+	  <li>ElongatedFingers</li>
+	  <li>Immunity_Strong</li>
+	  <li>Eyes_Red</li>
+	  <li>Libido_High</li>
+	  <li>Mood_Pessimist</li>
+	  <li>Aggression_HyperAggressive</li>
+	  <li>UVSensitivity_Mild</li>
+	  <li>DarkVision</li>
+    </genes>
+  </XenotypeDef>
+  
+    <XenotypeDef>
+    <defName>Dwarf</defName>
+    <label>dwarf</label>
+    <description>Dwarves are short, stout humanoids with beards that live underground. They are known for their craftsmanship, particularly in metalworking and mining. They have a strong cultural identity and often hold themselves apart from other races.</description>
+    <descriptionShort>A dwarf.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/dwarf</iconPath>
+    <inheritable>true</inheritable>
+    <combatPowerFactor>1.3</combatPowerFactor>
+	<nameMaker>NamerPersonDwarfMale</nameMaker>
+	<nameMakerFemale>NamerPersonDwarfFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>Immunity_Strong</li>
+		<li>PsychicAbility_Deaf</li>
+		<li>MoveSpeed_Slow</li>
+		<li>MinTemp_SmallIncrease</li>
+		<li>UVSensitivity_Mild</li>
+		<li>MeleeDamage_Strong</li>
+		<li>Robust</li>
+		<li>Beard_Always</li>
+		<li>Body_Fat</li>
+		<li>Body_Hulk</li>
+		<li>Nearsighted</li>
+		<li>DarkVision</li>
+		<li>AptitudePoor_Shooting</li>
+		<li>AptitudeRemarkable_Melee</li>
+		<li>AptitudeRemarkable_Mining</li>
+		<li>AptitudeRemarkable_Crafting</li>
+		<li>ChemicalDependency_Alcohol</li>
+    </genes>
+  </XenotypeDef>
+
+ <XenotypeDef>
+    <defName>Goblin</defName>
+    <label>Goblin</label>
+    <description>Goblins are small, humanoid creatures with pointed ears, sharp teeth, and green skin. They tend to be aggressive and mischievous, often stealing food and other valuables from humans and elves. They are also known for their cunning intelligence and ability to plan complex schemes. Overall, goblins are evil or neutral creatures that pose a threat to civilized societies.</description>
+    <descriptionShort>A Goblin.</descriptionShort>
+		<iconPath>World/WorldObjects/Expanding/goblin</iconPath>
+		<inheritable>true</inheritable>
+		<combatPowerFactor>0.8</combatPowerFactor>
+		<nameMaker>NamerPersonGoblinMale</nameMaker>
+		<nameMakerFemale>NamerPersonGoblinFemale</nameMakerFemale>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>MoveSpeed_Quick</li>
+		<li>ToxicEnvironmentResistance_Total</li>
+		<li>Aggression_HyperAggressive</li>
+		<li>Libido_High</li>
+		<li>Fertile</li>
+		<li>Beauty_Ugly</li>
+		<li>Eyes_Red</li>
+		<li>Ears_Pointed</li>
+		<li>VoicePig</li>
+		<li>Body_Thin</li>
+		<li>Hair_LightBlue</li>
+		<li>Hair_LightTeal</li>
+		<li>Hair_LightGreen</li>
+		<li>Hair_Pink</li>
+		<li>Hair_LightPurple</li>
+		<li>Skin_Green</li>
+		<li>Learning_Slow</li>
+		<li>Instability_Major</li>
+		<li>Nose_Pig</li>
+    </genes>
+  </XenotypeDef> 
+
+ <XenotypeDef>
+		<defName>Neko</defName>
+		<label>Neko</label>
+		<description>Neko are Animal-like creature or being that has cat-like characteristics such as feline features, agility, graceful movements, and claws.</description>
+		<descriptionShort>A Neko.</descriptionShort>
+		<iconPath>World/WorldObjects/Expanding/neko</iconPath>
+		<inheritable>true</inheritable>
+		<combatPowerFactor>1</combatPowerFactor>
+		<nameMaker>NamerPersonNekoMale</nameMaker>
+		<nameMakerFemale>NamerPersonNekoFemale</nameMakerFemale>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
+		<genes>
+			<li>PsychicAbility_Enhanced</li>
+			<li>MinTemp_SmallIncrease</li>
+			<li>Sleepy</li>
+			<li>Libido_High</li>
+			<li>Beauty_Pretty</li>
+			<li>Eyes_Gray</li>
+			<li>Ears_Cat</li>
+			<li>Body_Thin</li>
+			<li>Hair_LightBlue</li>
+			<li>Hair_LightTeal</li>
+			<li>Hair_LightGreen</li>
+			<li>Hair_Pink</li>
+			<li>Hair_LightPurple</li>
+			<li>DarkVision</li>
+			<li>Tail_Smooth</li>
+		</genes>
+  </XenotypeDef> 
+  
+   <XenotypeDef>
+    <defName>Drak</defName>
+    <label>Drak</label>
+    <description>Drak are lizardfolk, capable of fire breathing, and direct descendant of dragons.</description>
+    <descriptionShort>A Drak.</descriptionShort>
+		<iconPath>World/WorldObjects/Expanding/drak</iconPath>
+		<inheritable>true</inheritable>
+		<combatPowerFactor>1.2</combatPowerFactor>
+		<nameMaker>NamerPersonDrakMale</nameMaker>
+		<nameMakerFemale>NamerPersonDrakFemale</nameMakerFemale>
+		<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>FireSpew</li>
+		<li>WoundHealing_Slow</li>
+		<li>MoveSpeed_Slow</li>
+		<li>MinTemp_SmallIncrease</li>
+		<li>ToxicEnvironmentResistance_Partial</li>
+		<li>FireResistant</li>
+		<li>Robust</li>
+		<li>Hair_BaldOnly</li>
+		<li>Jaw_Heavy</li>
+		<li>Headbone_MiniHorns</li>
+		<li>VoiceRoar</li>
+		<li>Body_Hulk</li>
+		<li>Skin_Green</li>
+		<li>Skin_DeepRed</li>
+		<li>Skin_Purple</li>
+		<li>Skin_SlateGray</li>
+		<li>Unstoppable</li>
+    </genes>
+  </XenotypeDef> 
+
+	
+</Defs>
+
+ 

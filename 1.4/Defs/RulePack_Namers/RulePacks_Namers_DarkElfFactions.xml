@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>DarkElfClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Nocturne Syndicate</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementDarkElf</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/DarkElfCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

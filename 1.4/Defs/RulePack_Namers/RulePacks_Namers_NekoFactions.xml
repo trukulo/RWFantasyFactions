@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>NekoClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Euphony Enclave</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementNeko</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/NekoCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

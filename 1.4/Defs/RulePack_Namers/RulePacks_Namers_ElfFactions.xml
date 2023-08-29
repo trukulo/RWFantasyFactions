@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>ElfClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Elvish Kingdoms</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementElf</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/ElfCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

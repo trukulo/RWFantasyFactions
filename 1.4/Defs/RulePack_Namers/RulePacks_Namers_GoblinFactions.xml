@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>GoblinClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Verdigris Clans</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementGoblin</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/GoblinCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

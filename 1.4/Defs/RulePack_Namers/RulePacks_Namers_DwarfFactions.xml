@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>DwarfClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Dwarven Union</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementDwarf</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/DwarfCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

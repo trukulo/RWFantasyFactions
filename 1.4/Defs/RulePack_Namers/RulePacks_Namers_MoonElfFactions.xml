@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>MoonElfClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Luminar Confederacy</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementMoonElf</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/MoonElfCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>
